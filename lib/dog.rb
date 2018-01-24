@@ -14,4 +14,10 @@ def self.all?
   end
 end
 
+def clear_all
+end
+
+def name
+end
+
 end
