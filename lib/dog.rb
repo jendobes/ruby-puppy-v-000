@@ -14,7 +14,7 @@ def self.all
   end
 end
 
-def clear_all
+def self.clear_all
 end
 
 def name
