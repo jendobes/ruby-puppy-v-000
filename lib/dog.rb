@@ -17,7 +17,4 @@ end
 def self.clear_all
 end
 
-def name
-end
-
 end
